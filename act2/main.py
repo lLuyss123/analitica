@@ -6,6 +6,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+from graficos import *
 
 # Set the path to the file you'd like to load
 file_path = "Most Streamed Artists on Spotify (17_07_2026) V1.1.csv"
@@ -17,10 +18,10 @@ df = kagglehub.dataset_load(
         file_path
     )
 
-""" ANTES DE NORMALIZAR VERIFICAMOS QUE TODO EL CONJUNTO DE DATOS 
-NO TENGA REPETIDOS O NULOS O DATOS ERRONEOS PARA CORREGIRLOS Y LUEGO ARREGLARLOS """
+#ANTES DE NORMALIZAR VERIFICAMOS QUE TODO EL CONJUNTO DE DATOS 
+#NO TENGA REPETIDOS O NULOS O DATOS ERRONEOS PARA CORREGIRLOS Y LUEGO ARREGLARLOS 
 
-""" NORMALIZAMOS LAS TABLAS """
+#NORMALIZAMOS LAS TABLAS
 df_artistas = pd.read_excel("artistas.ods", engine="odf")
 df_country = pd.read_excel("country.ods", engine="odf")
 df_estadisticas = pd.read_excel("estadisticas.ods", engine="odf")
@@ -29,6 +30,8 @@ df_lenguage = pd.read_excel("lenguage.ods", engine="odf")
 df_sexo = pd.read_excel("sexo.ods", engine="odf")
 df_type = pd.read_excel("type.ods", engine="odf")
 
+
+#¿Qué países muestran mayor diversidad de géneros musicales? 
 grupo_paises = df.groupby(["Country of Origin"])
 total_genero=grupo_paises["Primary Genre"].nunique().sort_values(ascending=False)
 total_genero= total_genero.reset_index()
@@ -40,21 +43,22 @@ st.set_page_config(
     page_title="Spotify Analytics",
     layout="wide"
 )
+grafico_p1(total_genero)
 
-fig = px.bar(
-            total_genero.head(10),
-              x = "Unique Genres",
-              y = "Country of Origin",
-              text="Unique Genres",
-              title="Top 10 Countries by Musical Genre Diversity",
-              color_discrete_sequence=["#1DB954"]
-              )
+#¿Existe relación entre el año de debut y el número de streams? 
 
-fig.update_traces(textposition="outside")
-fig.update_yaxes(autorange="reversed")
-st.plotly_chart(fig, width="stretch")
-st.markdown("""
-### Conclusion
+relacion = df[["Debut Year", "Total Streams (in millions)"]].sort_values(
+    by="Debut Year",
+    ascending=True
+)
 
-The United States has the highest musical genre diversity in the dataset, with 16 unique genres. Germany and the United Kingdom follow with six genres each, indicating a broader musical variety than the remaining countries in the top 10.
-""")
+grafico_p2(relacion)
+
+# ¿El idioma influye realmente en el alcance global de un artista o existen excepciones importantes?
+
+relacion2 = df[["Primary Language", "Total Streams (in millions)"]]
+grafico_p3(relacion2)
+
+media=df.groupby("Primary Language")["Total Streams (in millions)"].median().reset_index()
+print(media)
+grafico_p4(media)
