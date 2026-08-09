@@ -3,7 +3,6 @@
 import kagglehub
 from kagglehub import KaggleDatasetAdapter
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 
 from graficos import *
@@ -20,6 +19,35 @@ df = kagglehub.dataset_load(
 
 #ANTES DE NORMALIZAR VERIFICAMOS QUE TODO EL CONJUNTO DE DATOS 
 #NO TENGA REPETIDOS O NULOS O DATOS ERRONEOS PARA CORREGIRLOS Y LUEGO ARREGLARLOS 
+print("="*50)
+print("\n"+"="*50)
+print(" Tipos de datos:")
+print(df.dtypes)
+print("\n"+"="*50)
+print("Primeras 5 columnas de dataset")
+print(df.head())
+print("\n"+"="*50)
+print("Tamaño del dataset:")
+print(df.shape )
+print("\n"+"="*50)
+print(" Información general del dataset:")
+print("",df.info())
+print("\n"+"="*50)
+print(" Estadisticas de las columnas númericas:")
+print("",df.describe())
+
+print("\n"+"="*50)
+print(" Contar valores nulos que tienen cada columna:")
+print(df.isnull().sum())
+
+print("\n"+"="*50)
+print("Datos DUPLICADOS")
+print(df.duplicated().sum())
+
+
+
+
+
 
 #NORMALIZAMOS LAS TABLAS
 df_artistas = pd.read_excel("artistas.ods", engine="odf")
@@ -38,7 +66,6 @@ total_genero= total_genero.reset_index()
 total_genero= total_genero.rename(columns={
     "Primary Genre":"Unique Genres"
 }) 
-print(total_genero)
 st.set_page_config(
     page_title="Spotify Analytics",
     layout="wide"
