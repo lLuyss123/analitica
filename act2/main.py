@@ -72,7 +72,7 @@ st.set_page_config(
 )
 grafico_p1(total_genero)
 
-#¿Existe relación entre el año de debut y el número de streams? 
+#¿Existe relación entre el año de debut y el exito del artista (el número de streams)? 
 
 relacion = df[["Debut Year", "Total Streams (in millions)"]].sort_values(
     by="Debut Year",
