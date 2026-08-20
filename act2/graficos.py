@@ -32,10 +32,12 @@ def grafico_p2(relacion):
     relacion,
     x="Debut Year",
     y="Total Streams (in millions)",
+    color_discrete_sequence=["#108137"],
     title="Relationship Between Debut Year and Total Streams",
     color="Debut Year",
     opacity=0.6,
     trendline="ols"
+    
     )
     st.plotly_chart(
             fig,
@@ -47,6 +49,7 @@ def grafico_p3(relacion):
     relacion,
     x="Primary Language",
     y="Total Streams (in millions)",
+    color_discrete_sequence=["#00C244"],
     title="Relationship Between Primary Language and Total Streams"
     )
     st.plotly_chart(
@@ -59,6 +62,7 @@ def grafico_p4(media):
         media,
         x="Primary Language",
         y="Total Streams (in millions)",
+        color_discrete_sequence=["#006925"],
         title="Median Total Streams by Primary Language"
     )
     st.plotly_chart(

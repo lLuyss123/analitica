@@ -39,7 +39,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 38,Lil Baby,1,2,1,1,1,2017
 39,Maroon 5,2,2,1,2,2,2002
 40,Khalid,1,2,1,4,1,2016
+<<<<<<< HEAD
 41,BeyoncÃ©,2,2,1,2,1,2003
+=======
+41,Beyoncé,2,2,1,2,1,2003
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 42,Maluma,1,5,2,10,1,2010
 43,Feid,1,5,2,3,1,2015
 44,Calvin Harris,1,10,1,8,1,2007
@@ -81,7 +85,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 80,Sabrina Carpenter,2,2,1,2,1,2014
 81,Frank Ocean,1,2,1,4,1,2011
 82,Die drei ???,1,14,6,14,2,1979
+<<<<<<< HEAD
 83,JAÅ¸-Z,1,2,1,1,1,1996
+=======
+83,JAŸ-Z,1,2,1,1,1,1996
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 84,A$AP Rocky,1,2,1,1,1,2011
 85,Miley Cyrus,2,2,1,2,1,2006
 86,The Chainsmokers,1,2,1,8,2,2012
@@ -89,7 +97,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 88,Cardi B,2,2,1,1,1,2015
 89,Twenty One Pilots,1,2,1,7,2,2009
 90,Disney,2,2,1,15,2,1949
+<<<<<<< HEAD
 91,ArcÃ¡ngel,1,2,2,3,1,2004
+=======
+91,Arcángel,1,2,2,3,1,2004
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 92,Red Hot Chili Peppers,2,2,1,6,2,1984
 93,Camila Cabello,2,15,1,2,1,2012
 94,$uicideboy$,1,2,1,1,2,2014
@@ -121,7 +133,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 120,USHER,1,2,1,4,1,1994
 121,Charlie Puth,1,2,1,2,1,2015
 122,Justin Timberlake,1,2,1,2,1,2002
+<<<<<<< HEAD
 123,TiÃ«sto,1,20,1,8,1,1994
+=======
+123,Tiësto,1,20,1,8,1,1994
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 124,Sean Paul,1,21,1,18,1,1996
 125,Tyga,1,2,1,1,1,2008
 126,Kali Uchis,2,5,1,4,1,2012
@@ -136,7 +152,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 135,Akon,1,22,1,4,1,2004
 136,AC/DC,1,12,1,6,2,1975
 137,Sebastian Yatra,1,5,2,10,1,2013
+<<<<<<< HEAD
 138,CarÃ­n LeÃ³n,1,11,2,11,1,2010
+=======
+138,Carín León,1,11,2,11,1,2010
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 139,Alan Walker,1,17,1,8,1,2014
 140,A Boogie Wit da Hoodie,1,2,1,1,1,2016
 141,Fleetwood Mac,2,3,1,6,2,1967
@@ -161,7 +181,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 160,Bizarrap,1,24,2,10,1,2017
 161,Migos,1,2,1,1,2,2013
 162,The Kid LAROI,1,12,1,1,1,2018
+<<<<<<< HEAD
 163,MarÃ­lia MendonÃ§a,2,19,7,17,1,2011
+=======
+163,Marília Mendonça,2,19,7,17,1,2011
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 164,Anitta,2,19,7,2,1,2012
 165,Green Day,1,2,1,6,2,1990
 166,Lil Durk,1,2,1,1,1,2011
@@ -175,7 +199,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 174,Anirudh Ravichander,1,9,8,9,1,2012
 175,Ne-Yo,1,2,1,4,1,2006
 176,Gucci Mane,1,2,1,1,1,2005
+<<<<<<< HEAD
 177,ROSALÃA,2,25,2,2,1,2016
+=======
+177,ROSAL�?A,2,25,2,2,1,2016
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 178,Charli xcx,2,3,1,2,1,2008
 179,Joji,1,26,1,4,1,2017
 180,Fall Out Boy,1,2,1,6,2,2003
@@ -194,7 +222,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 193,Lewis Capaldi,1,10,1,2,1,2017
 194,Grupo Frontera,1,2,2,11,2,2022
 195,Camilo,1,5,2,2,1,2007
+<<<<<<< HEAD
 196,Lenny TavÃ¡rez,1,2,2,3,1,2009
+=======
+196,Lenny Tavárez,1,2,2,3,1,2009
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 197,2 Chainz,1,2,1,1,1,2007
 198,NF,1,2,1,1,1,2010
 199,Bryson Tiller,1,2,1,4,1,2011
@@ -207,7 +239,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 206,Christian Nodal,1,11,2,11,1,2016
 207,Brent Faiyaz,1,2,1,4,1,2013
 208,Martin Garrix,1,20,1,8,1,2012
+<<<<<<< HEAD
 209,Banda MS de Sergio LizÃ¡rraga,1,11,2,11,2,2003
+=======
+209,Banda MS de Sergio Lizárraga,1,11,2,11,2,2003
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 210,Pink Floyd,1,3,1,6,2,1967
 211,mgk,1,2,1,1,1,2006
 212,Wisin & Yandel,1,2,2,3,2,1998
@@ -232,10 +268,17 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 231,5 Seconds of Summer,1,12,1,6,2,2011
 232,Jack Harlow,1,2,1,1,1,2015
 233,TWICE,2,6,3,5,2,2015
+<<<<<<< HEAD
 234,Ã‘engo Flow,1,2,2,3,1,2004
 235,Ava Max,2,2,1,2,1,2008
 236,ZAYN,1,3,1,2,1,2010
 237,Michael BublÃ©,1,1,1,2,1,2001
+=======
+234,Ñengo Flow,1,2,2,3,1,2004
+235,Ava Max,2,2,1,2,1,2008
+236,ZAYN,1,3,1,2,1,2010
+237,Michael Bublé,1,1,1,2,1,2001
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 238,Macklemore,1,2,1,1,1,2000
 239,Anne-Marie,2,3,1,2,1,2013
 240,The Rolling Stones,1,3,1,6,2,1964
@@ -278,11 +321,19 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 277,Slipknot,1,2,1,20,2,1999
 278,Irshad Kamil,1,9,4,9,1,2004
 279,Little Mix,2,3,1,2,2,2011
+<<<<<<< HEAD
 280,BeÃ©le,1,5,2,3,1,2019
 281,The Notorious B.I.G.,1,2,1,1,1,1993
 282,Mitski,2,26,1,7,1,2012
 283,Tainy,1,2,2,3,1,2006
 284,ZÃ© Neto & Cristiano,1,19,7,17,2,2011
+=======
+280,Beéle,1,5,2,3,1,2019
+281,The Notorious B.I.G.,1,2,1,1,1,1993
+282,Mitski,2,26,1,7,1,2012
+283,Tainy,1,2,2,3,1,2006
+284,Zé Neto & Cristiano,1,19,7,17,2,2011
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 285,Rammstein,1,14,6,20,2,1995
 286,Labrinth,1,3,1,2,1,2010
 287,Chencho Corleone,1,2,2,3,1,1999
@@ -291,7 +342,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 290,The Killers,1,2,1,6,2,2004
 291,blink-182,1,2,1,6,2,1995
 292,Summer Walker,2,2,1,4,1,2018
+<<<<<<< HEAD
 293,JhenÃ© Aiko,2,2,1,4,1,2002
+=======
+293,Jhené Aiko,2,2,1,4,1,2002
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 294,Kehlani,2,2,1,4,1,2014
 295,Clean Bandit,2,3,1,2,2,2012
 296,David Bowie,1,3,1,6,1,1967
@@ -313,7 +368,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 312,Alessia Cara,2,1,1,2,1,2015
 313,Vishal-Shekhar,1,9,4,9,2,1999
 314,Paulo Londra,1,24,2,1,1,2017
+<<<<<<< HEAD
 315,La Arrolladora Banda El LimÃ³n De Rene Camacho,1,11,2,11,2,1997
+=======
+315,La Arrolladora Banda El Limón De Rene Camacho,1,11,2,11,2,1997
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 316,Yeat,1,2,1,1,1,2015
 317,Matheus & Kauan,1,19,7,17,2,2010
 318,Alok,1,19,7,8,1,2004
@@ -325,9 +384,15 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 324,Dalex,1,2,2,3,1,2014
 325,Nickelback,1,1,1,6,2,1996
 326,Marc Anthony,1,2,2,10,1,1988
+<<<<<<< HEAD
 327,ManÃ¡,2,11,2,6,2,1987
 328,Led Zeppelin,1,3,1,6,2,1969
 329,MÃ¥neskin,2,34,10,6,2,2017
+=======
+327,Maná,2,11,2,6,2,1987
+328,Led Zeppelin,1,3,1,6,2,1969
+329,Måneskin,2,34,10,6,2,2017
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 330,Florida Georgia Line,1,2,1,12,2,2010
 331,Luis Fonsi,1,2,2,10,1,1998
 332,RAYE,2,3,1,2,1,2014
@@ -339,7 +404,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 338,Oscar Maydon,1,11,2,10,1,2020
 339,Anderson .Paak,1,2,1,4,1,2014
 340,Chase Atlantic,1,12,1,4,2,2014
+<<<<<<< HEAD
 341,JuliÃ³n Ãlvarez y su NorteÃ±o Banda,1,11,2,11,2,2007
+=======
+341,Julión �?lvarez y su Norteño Banda,1,11,2,11,2,2007
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 342,Prince Royce,1,2,2,16,1,2010
 343,Bastille,1,3,1,7,2,2010
 344,Sfera Ebbasta,1,34,10,1,1,2011
@@ -347,7 +416,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 346,YG,1,2,1,1,1,2008
 347,Alejandro Sanz,1,25,2,10,1,1989
 348,Lil Tjay,1,2,1,1,1,2017
+<<<<<<< HEAD
 349,GIVÄ’ON,1,2,1,4,1,2018
+=======
+349,GIVĒON,1,2,1,4,1,2018
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 350,Billy Joel,1,2,1,6,1,1971
 351,Luke Bryan,1,2,1,12,1,2007
 352,Muse,1,3,1,6,2,1999
@@ -380,7 +453,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 379,Lost Frequencies,1,36,1,8,1,2014
 380,Kings of Leon,1,2,1,6,2,2003
 381,Joan Sebastian,1,11,2,11,1,1975
+<<<<<<< HEAD
 382,Alejandro FernÃ¡ndez,1,11,2,10,1,1992
+=======
+382,Alejandro Fernández,1,11,2,10,1,1992
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 383,Glass Animals,1,3,1,7,2,2012
 384,Sachin-Jigar,1,9,4,9,2,2009
 385,Fetty Wap,1,2,1,1,1,2014
@@ -410,7 +487,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 409,6ix9ine,1,2,1,1,1,2017
 410,Nate Dogg,1,2,1,1,1,1992
 411,Noriel,1,2,2,3,1,2014
+<<<<<<< HEAD
 412,Vicente FernÃ¡ndez,1,11,2,11,1,1966
+=======
+412,Vicente Fernández,1,11,2,11,1,1966
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 413,Three Days Grace,1,1,1,6,2,2003
 414,Aerosmith,2,2,1,6,2,1973
 415,Bee Gees,1,3,1,2,2,1963
@@ -436,7 +517,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 435,NewJeans,2,6,3,5,2,2022
 436,Avenged Sevenfold,1,2,1,20,2,2001
 437,Ricardo Arjona,1,40,2,10,1,1985
+<<<<<<< HEAD
 438,Los Ãngeles Azules,2,11,2,10,2,1982
+=======
+438,Los �?ngeles Azules,2,11,2,10,2,1982
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 439,Rex Orange County,1,3,1,2,1,2015
 440,ScHoolboy Q,1,2,1,1,1,2008
 441,6LACK,1,2,1,4,1,2016
@@ -451,14 +536,22 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 450,Zion,1,2,2,3,1,2004
 451,Ryan Castro,1,5,2,3,1,2017
 452,Nelly Furtado,2,1,1,2,1,2000
+<<<<<<< HEAD
 453,Wesley SafadÃ£o,1,19,7,10,1,2003
+=======
+453,Wesley Safadão,1,19,7,10,1,2003
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 454,Disturbed,1,2,1,20,2,2000
 455,H.E.R.,2,2,1,4,1,2016
 456,Rita Ora,2,3,1,2,1,2012
 457,Kevin Gates,1,2,1,1,1,2007
 458,beabadoobee,2,42,1,6,1,2017
 459,Karan Aujla,1,9,12,1,1,2014
+<<<<<<< HEAD
 460,CÃ©line Dion,2,1,9,2,1,1981
+=======
+460,Céline Dion,2,1,9,2,1,1981
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 461,Bryan Adams,1,1,1,6,1,1980
 462,ENHYPEN,1,6,3,5,2,2020
 463,Dominic Fike,1,2,1,7,1,2017
@@ -475,11 +568,19 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 474,Tom Odell,1,3,1,2,1,2012
 475,Macklemore & Ryan Lewis,2,2,1,1,2,2009
 476,Thomas Rhett,1,2,1,12,1,2012
+<<<<<<< HEAD
 477,MÃ˜,2,43,1,2,1,2006
 478,Five Finger Death Punch,1,2,1,20,2,2007
 479,Kane Brown,1,2,1,12,1,2014
 480,Laufey,2,44,1,2,1,2020
 481,Grupo Menos Ã‰ Mais,1,19,7,10,2,2016
+=======
+477,MØ,2,43,1,2,1,2006
+478,Five Finger Death Punch,1,2,1,20,2,2007
+479,Kane Brown,1,2,1,12,1,2014
+480,Laufey,2,44,1,2,1,2020
+481,Grupo Menos É Mais,1,19,7,10,2,2016
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 482,Nicki Nicole,2,24,2,10,1,2019
 483,Moneybagg Yo,1,2,1,1,1,2012
 484,Magenta,2,34,10,2,1,1997
@@ -495,7 +596,11 @@ id,Artist Name,id_sex,id_country,id_language,id_genre,id_arist_type,Debut Year
 494,Los Temerarios,1,11,2,10,2,1977
 495,Jason Mraz,1,2,1,2,1,2002
 496,The Cure,1,3,1,6,2,1979
+<<<<<<< HEAD
 497,The MarÃ­as,2,2,1,2,2,2017
+=======
+497,The Marías,2,2,1,2,2,2017
+>>>>>>> 794a3e6a8ccf75bdd556b68d17863e2e649864bb
 498,Limp Bizkit,1,2,1,24,2,1997
 499,Korn,1,2,1,20,2,1994
 500,Omar Courtz,1,2,2,3,1,2017
