@@ -1,0 +1,49 @@
+ Nombre , CATEGORIA , Producto , Cantidad , Precio Unitario , Total Venta , Ciudad , Genero 
+ Luis Perez , electronica , Laptop , 2 , 2500000 , 5000000 , Barranquilla , M
+ Ana Gomez, Electrónica,CELULAR,, 1500000, 4500000, Barranquilla, F
+ Carlos Diaz , ELECTRONICA ,TABLET, 2 ,, 1800000 , Cartagena , Hombre
+ Maria Lopez, electronica, Audifonos, 5, 150000, 750000, Cartagena,MUJER
+ Pedro Martinez , Hogar , Televisor , 1 , 2200000 , 2200000 , Bogotá , H
+,,,,,,,
+ Juan Rodriguez , HOGAR , Lavadora , 2 , 1800000 , 3600000 , Medellín , Masculino
+ Sofia Hernandez, Hogar, Microondas, 3, 450000, 1350000, Medellin, Femenino
+ Andres Castillo , Deportes , Bicicleta ,, 1200000 , 1200000 , Barranquilla , M
+ Camila Vargas, deportes, Balón, 4, 80000, 320000, Barranquilla,MUJER
+ Diego Rojas , DEPORTES , Mancuernas , 2 , 150000 , 300000 , Cartagena ,HOMBRE
+ Valentina Perez, Deportes, Caminadora, 1, 3500000, 3500000, Cartagena, F
+ Nicolas Moreno , Electronica , Monitor , 2 , 700000 , 1400000 , Bogotá , M
+ Daniela Castro, electronica, Teclado, 5, 120000, 600000,BOGOTA, F
+ Sebastian Ruiz , ELECTRONICA ,MOUSE, 10 , 50000 , 500000 , Medellín , H
+ Juliana Romero, Electronica, Impresora, 2, 650000,, Medellin, Mujer
+ Felipe Herrera , Hogar , Sofa , 1 , 1800000 , 1800000 , Barranquilla , Masculino
+ Natalia Silva, hogar, Cama, 2, 900000, 1800000, Barranquilla, Femenino
+ Mateo Sanchez , HOGAR , Comedor , 1 , 1500000 , 1500000 , Cartagena , Hombre
+ Isabella Cruz, Hogar, Estufa, 2, 700000, 1400000, Cartagena, F
+ Jorge Molina , Deportes , Patines , 2 , 250000 ,, Bogotá , M
+ Paula Navarro, deportes, Pesas, 5,, 500000, Bogota, F
+ Ricardo Mendoza , DEPORTES , Guantes , 3 , 90000 , 270000 , Medellín , H
+ Gabriela Ortiz, Deportes, Casco, 2, 180000, 360000, Medellin, Mujer
+ Luis Perez , electronica , Laptop , 2 , 2500000 , 5000000 , Barranquilla , M
+ Ana Gomez, Electrónica, Celular, 3, 1500000, 4500000, Barranquilla, F
+ Carlos Diaz , ELECTRONICA , Tablet , 2 , 900000 , 1800000 , Cartagena , Hombre
+ Maria Lopez, electronica, Audifonos, 5, 150000, 750000, Cartagena, Mujer
+ Pedro Martinez , Hogar , Televisor , 1 , 2200000 , 2200000 , Bogotá , H
+ Laura Torres, hogar, Nevera, 1, 2800000, 2800000, Bogota, F
+ Juan Rodriguez , HOGAR , Lavadora , 2 , 1800000 , 3600000 , Medellín , Masculino
+ Sofia Hernandez, Hogar, Microondas, 3, 450000, 1350000, Medellin, Femenino
+ Andres Castillo , Deportes , Bicicleta , 1 , 1200000 , 1200000 , Barranquilla , M
+ Camila Vargas, deportes, Balón,, 80000, 320000, Barranquilla, Mujer
+ Diego Rojas , DEPORTES , Mancuernas , 2 , 150000 , 300000 , Cartagena , Hombre
+ Valentina Perez, Deportes, Caminadora, 1, 3500000, 3500000, Cartagena, F
+ Nicolas Moreno , Electronica , Monitor , 2 , 700000 , 1400000 , Bogotá , M
+ Daniela Castro, electronica, Teclado, 5, 120000, 600000, Bogota, F
+ Sebastian Ruiz , ELECTRONICA , Mouse ,, 50000 , 500000 , Medellín , H
+ Juliana Romero, Electronica, Impresora, 2, 650000, 1300000, Medellin, Mujer
+ Felipe Herrera , Hogar , Sofa ,, 1800000 , 1800000 , Barranquilla , Masculino
+ Natalia Silva, hogar, Cama, 2, 900000, 1800000, Barranquilla, Femenino
+ Mateo Sanchez , HOGAR , Comedor , 1 ,, 1500000 , Cartagena , Hombre
+ Isabella Cruz, Hogar, Estufa, 2, 700000, 1400000, Cartagena, F
+ Jorge Molina , Deportes , Patines , 2 , 250000 ,, Bogotá , M
+ Paula Navarro, deportes, Pesas, 5, 100000, 500000, Bogota, F
+ Ricardo Mendoza , DEPORTES , Guantes , 3 , 90000 , 270000 , Medellín , H
+ Gabriela Ortiz, Deportes, Casco, 2, 180000,, Medellin, Mujer
