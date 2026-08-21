@@ -15,8 +15,6 @@ import numpy as np
 def limpiar_columnas(df):
     """
     Arreglar los nombres de las columnas.
-    
-    
     """
 
     df.columns = (
