@@ -26,9 +26,36 @@ print(df.head())
 print(df[df["name"].isna()])
 
 
-#LIMPIEZA
+#LIMPIEZA Y TRANSFORMACION DE DATOS
 
+#Normalizamos los  nombres de las columnas
+colums = df.columns.tolist()
+df.columns = (
+        df.columns
+        .str.strip()
+        .str.lower()
+        .str.replace(" ", "_")
+    )
+
+#Eliminamos los duplicados
 df = df.drop_duplicates()
+
+# Eliminar filas completamente vacías
+df = df.dropna(how="all")
+
+# Convertir tipos
+df[["positive","negative","price","initialprice","discount","ccu"]] = df[["positive","negative","price","initialprice","discount","ccu"]].apply(
+    pd.to_numeric,
+    errors="coerce"
+)
+
+df["price"] = df["price"] / 100
+df["initialprice"] = df["initialprice"] / 100
+
+# Convertir fechas
+""" df["fecha"] = pd.to_datetime(df["fecha"], errors="coerce") """
+
+
 df.to_csv('newCSV.csv',index=False)
 
 
